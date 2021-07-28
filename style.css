@@ -44,3 +44,30 @@ h1{
     margin-left: 200px;
     margin-top: 80px;
 }
+.recepie-area{
+    text-align: center;
+}
+.recepie-item-area{
+    width:80%;
+    padding-top: 20px;
+    padding-left:50px
+}
+.recepie-item{
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+    padding: 10px;
+}
+.recepie-item img{
+    padding:20px;
+    width:30ex;
+    border-radius: 60px;
+}
+.follow-me-area{
+    width: 85%;
+    margin: 100px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 20px;
+}
