@@ -4,6 +4,10 @@ body{
 }
 h1{
     font-size: 50px;
+    font-weight: bold;
+}
+h2{
+    font-size:30px;
 }
 .orange-color{
     color: orangered;
@@ -70,4 +74,13 @@ h1{
     margin: 100px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
+}
+footer{
+    text-align: center;
+    background: black;
+    color: white;
+    padding: 40px;
+}
+footer p{
+    font-size: 12px;
 }
