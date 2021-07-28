@@ -8,6 +8,7 @@ h1{
 }
 h2{
     font-size:30px;
+    font-weight: bold;
 }
 .orange-color{
     color: orangered;
@@ -63,6 +64,7 @@ h2{
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
     padding: 10px;
+    text-align: left;
 }
 .recepie-item img{
     padding:20px;
@@ -74,6 +76,10 @@ h2{
     margin: 100px;
     box-shadow: 10px 10px 40px gray;
     border-radius: 20px;
+    padding: 10px;
+}
+.button{
+    padding: 30px;
 }
 footer{
     text-align: center;
